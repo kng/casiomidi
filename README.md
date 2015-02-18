@@ -11,3 +11,7 @@ Compiles to 4 478 bytes in Arduino 1.0.6<br>
 
 ardumidi, a part of ttymidi. http://www.varal.org/ttymidi/<br>
 keypad http://playground.arduino.cc/Code/Keypad<br>
+
+# hardware
+
+Schematics and ideas at: http://casperelectronics.com/finished-pieces/casio-sa-keyboards/
